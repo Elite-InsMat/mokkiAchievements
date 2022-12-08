@@ -30,5 +30,5 @@ Among us - https://www.svgrepo.com/svg/341436/among-us-game-apps
 Blueberry - https://www.svgrepo.com/svg/404856/blueberries  
 Pear - https://www.svgrepo.com/svg/75950/pear  
 Flame - https://www.svgrepo.com/svg/375811/flame  
-Basilisk - https://www.svgrepo.com/svg/378773/basilisk
+Basilisk - https://www.svgrepo.com/svg/378773/basilisk  
 Sun - https://www.svgrepo.com/svg/178999/brightness-weather
